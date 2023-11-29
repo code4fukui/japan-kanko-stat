@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="ja" prefix="og: http://ogp.me/ns#">
+<head>
+
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+<title>デジタル観光統計オープンデータ（お試し版） | 公益社団法人 日本観光振興協会</title>
+<meta name="description" content="統計の概要デジタル観光統計オープンデータの概要デジタル観光統計オープンデータガイドラインニュースリリース（お試し版の提供開始）集計結果令和5年（2023年）令和5(2023)年10月都道府県観光来訪者数 市区町村..." />
+<meta name="keywords" content="デジタル観光統計オープンデータ（お試し版）,観光,地域,ニュース,お知らせ,日本" />
+
+<meta property="og:title" content="デジタル観光統計オープンデータ（お試し版）"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="統計の概要デジタル観光統計オープンデータの概要デジタル観光統計オープンデータガイドラインニュースリリース（お試し版の提供開始）集計結果令和5年（2023年）令和5(2023)年10月都道府県観光来訪者数 市区町村..."/>
+<meta property="og:site_name" content="公益社団法人 日本観光振興協会"/>
+<meta property="og:image" content="http://www.nihon-kankou.or.jp/image/logo.png"/>
+<meta property="og:url" content="http://www.nihon-kankou.or.jp/home/jigyou/research/d-toukei/"/>
+<meta property="og:updated_time" content="2023-11-09 08:56:58"/>
+
+
+<link rel="shortcut icon" href="/home/image/favicon.ico" type="image/x-icon" />
+<link rel="icon" href="/home/image/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.min.css">
+<link rel="stylesheet" href="/home/css/base.css" />
+<link rel="stylesheet" href="/home/css/common.css" />
+<link rel="stylesheet" href="/home/js/jquery/plugin/lib/jquery.bxslider.css" />
+<link rel="stylesheet" href="/home/assets/css/base_common.css?20230531" />
+
+
+<style>
+.p-award-item__img > .img,
+.p-award-item__ttl {
+  display: block;
+}
+</style>
+
+
+
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new
+Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-61023360-1');
+  ga('send', 'pageview');
+</script>
+</head>
+<body>
+
+<div id="container" class="item_id_home">
+	<a id="page_scroll_top"></a>
+	<div id="container_inner"> 
+		
+		<!-- site_header --> 
+		<header id="site_header">
+	<div class="inner clearfix">
+		<h1 class="site_logo"><a href="/home/"><img src="/home/image/logo.png" alt="公益社団法人 日本観光振興協会"></a></h1>
+		<div class="header_navi">
+			<div class="clearfix tar">
+				<div class="search_form">
+					<form method="get" action="/home/search/">
+						<input class="search_window" name="q" type="text" value="" />
+						<input class="serch_button" type="submit" value="検索">
+					</form>
+				</div>
+				<div class="login_pc">
+										<a href="/home/login/"><img src="/home/image/btn_login_pc.png" alt="会員ログイン"></a></div>
+			</div>
+			<ul class="header_link">
+				<li><a href="/home/link/">関連リンク</a></li>
+				<li><a href="/home/aboutlink/">リンク掲載について</a></li>
+				<li><a href="/home/privacy/">プライバシーポリシー</a></li>
+				<li><a href="/home/sitemap/">サイトマップ</a></li>
+			</ul>
+		</div>
+
+				<div id="site_navi_sp"><a href="javascript:void(0)"><img src="/home/image/btn_sp_menu.png" alt="メニュー"></a></div>
+	</div>
+</header> 
+		<!-- //site_header --> 
+		<nav id="site_navi">
+	<div class="site_navi_inner">
+		<ul class="g_navi">
+			<li><a href="/home/">ホーム</a></li>
+			<li><a href="/home/gaiyou/">協会の概要</a></li>
+			<li><a href="/home/jigyou/">事業の紹介</a></li>
+			<li><a href="/home/kaiin/">入会のご案内</a></li>
+			<li><a href="/home/access/">協会へのアクセス</a></li>
+			<li><a href="/home/contact/">お問い合わせ</a></li>
+		</ul>
+		<ul class="sp_menu">
+			<li><a href="#">メールマガジン</a></li>
+			<li><a href="/home/link/">関連リンク</a></li>
+			<li><a href="/home/aboutlink/">リンク掲載について</a></li>
+			<li><a href="/home/privacy/">プライバシーポリシー</a></li>
+			<li><a href="/home/sitemap/">サイトマップ</a></li>
+		</ul>
+	</div>
+</nav>
+
+  <noscript>
+    <p class="note tac pdtb10">
+      このページではJavaScriptを使用していますがお客様の環境では現在JavascriptがOFFの状態になっています。<br />
+      サイトの閲覧には問題ありませんが、より快適にご利用いただくためにJavascriptをONにすることをお勧めします。
+    </p>
+  </noscript>
+		
+		<!-- pagebody -->
+		<section id="pagebody">
+		
+			<h1 class="page_ttl"><span>デジタル観光統計オープンデータ（お試し版）</span></h1>
+			 
+<!-- topic_path_top -->
+<div class="topic_path_top">
+	<ol>
+		<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/home/" itemprop="url"><span itemprop="title">ホーム</span></a></li>
+										<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="/home/jigyou/" itemprop="url">			<span itemprop="title">事業の紹介</span>
+			</a>		</li>
+								<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+			<a href="/home/jigyou/research/" itemprop="url">			<span itemprop="title">調査研究レポート</span>
+			</a>		</li>
+								<li itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<span itemprop="title">デジタル観光統計オープンデータ（お試し版）</span>
+					</li>
+					</ol>
+</div>
+<!-- topic_path -->			
+			<div id="pagebody_inner" class="clearfix">
+				
+				<div id="alpha">
+											<div class="content1">
+							<h2>
+	<b>統計の概要</b></h2>
+<a href="/home/userfiles/files/d-toukei/gaiyou.pdf" target="_blank">デジタル観光統計オープンデータの概要</a><br />
+<a href="/home/userfiles/files/d-toukei/guideline.pdf" target="_blank">デジタル観光統計オープンデータガイドライン</a><br />
+<a href="/home/userfiles/files/d-toukei/nr202310.pdf" target="_blank">ニュースリリース（お試し版の提供開始）</a><br />
+<h2>
+	<b>集計結果</b></h2>
+<h3>
+	<b>令和5年（2023年）</b></h3>
+<h4>
+	<b>令和5(2023)年10月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202310.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202310.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年9月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202309.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202309.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年8月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202308.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202308.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年7月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202307.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202307.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年6月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202306.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202306.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年5月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202305.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202305.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年4月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202304.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202304.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年3月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202303.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202303.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年2月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202302.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202302.csv">市区町村観光来訪者数</a><br />
+<h4>
+	<b>令和5(2023)年1月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref202301.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city202301.csv">市区町村観光来訪者数</a><br />
+<h3>
+	<b>令和4年（2022年）</b></h3>
+<h4>
+	<b>令和4(2022)年1月～12月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref2022.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city2022.csv">市区町村観光来訪者数</a><br />
+<h3>
+	<b>令和3年（2021年）</b></h3>
+<h4>
+	<b>令和3(2021)年1月～12月</b></h4>
+<a href="https://d2eveo6c5xeu3l.cloudfront.net/pref/pref2021.csv">都道府県観光来訪者数</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://d2eveo6c5xeu3l.cloudfront.net/city/city2021.csv">市区町村観光来訪者数</a><br />
+
+						</div>
+					
+<!-- list_index -->
+				<div id="list_index" class="clearfix">
+
+					
+					
+									</div>
+				<!-- //list_index -->
+
+				</div>
+				
+				<div id="beta"> 
+
+
+<!-- side_menu -->
+<div id="side_menu">
+    <ul>
+                 
+                                                                  		<li class="level1"><a href="/home/jigyou/">事業の紹介</a>
+      
+      	        <ul>
+                              <li class="level2"> <a href="/home/jigyou/gaiyou/">事業概要</a>
+          
+          	                                  
+          </li>
+                                        <li class="level2"> <a href="/home/jigyou/public/">出版物のご案内</a>
+          
+          	                                  
+          </li>
+                                        <li class="level2"> <a href="/home/jigyou/hoken/">団体保険制度</a>
+          
+          	                                  
+          </li>
+                                        <li class="level2"> <a href="/home/jigyou/research/">調査研究レポート</a>
+          
+          	                                        <ul>
+                                                <li class="level3"> <a href="/home/jigyou/research/jsr/">観光の実態と志向</a>
+                
+                                                                      
+                </li>
+                                
+                                                <li class="level3"> <a href="/home/jigyou/research/d-toukei/" class="selected">デジタル観光統計オープンデータ（お試し版）</a>
+                
+                                                      
+                                                                        
+                </li>
+                                
+                              </ul>
+                                                
+          </li>
+                            </ul>
+              
+      </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  </ul>
+</div>
+<!-- side_menu --></div>
+			</div>
+		</section>
+		<!-- //pagebody --> 
+		
+		<!-- site_footer --> 
+		<div id="page_scroll_navi">
+	<p><a href="#page_scroll_top" title="ページのトップへ"><img src="/home/image/page_scroll_top.png" alt=""></a></p>
+</div>
+
+<!-- footer -->
+<div id="site_footer">
+<ul class="footer_navi">
+			<li><a href="/home/">ホーム</a></li>
+			<li><a href="/home/gaiyou/">協会の概要</a></li>
+			<li><a href="/home/jigyou/">事業の紹介</a></li>
+			<li><a href="/home/kaiin/">入会のご案内</a></li>
+			<li><a href="/home/access/">協会へのアクセス</a></li>
+			<li><a href="/home/contact/">お問い合わせ</a></li>
+			<li><a href="/home/link/">関連リンク</a></li>
+			<li><a href="/home/aboutlink/">リンク掲載について</a></li>
+			<li><a href="/home/privacy/">プライバシーポリシー</a></li>
+			<li><a href="/home/sitemap/">サイトマップ</a></li>
+		</ul>
+	<div class="inner"></div>
+</div>
+<p class="copyright" lang="en" xml:lang="en">無断転載を禁止します&copy; JAPAN TRAVEL AND TOURISM ASSOCIATION</p>
+<!-- footer -->  
+		<!-- //site_footer --> 
+		
+	</div>
+</div>
+
+<script src="/home/js/jquery/jquery-1.11.3.min.js"></script>
+<script src="/home/js/jquery/plugin/jquery.matchHeight-min.js"></script>
+<script src="/home/js/jquery/plugin/jquery.bxslider.min.js"></script>
+<script src="/home/js/site.js"></script>
+
+<script type="text/javascript" language="javascript">
+
+
+
+</script>
+</body>
+</html>
