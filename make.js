@@ -10,6 +10,7 @@ const list = [];
 
 const fns = await dir2array("data");
 for (const fn of fns) {
+  if (!fn.endsWith(".csv") || fn == "all.csv") continue;
   const data = await CSV.fetchJSON("data/" + fn);
   data.forEach(i => {
     list.push({
