@@ -13,11 +13,10 @@ for (const fn of fns) {
   if (!fn.endsWith(".csv") || fn == "all.csv") continue;
   const data = await CSV.fetchJSON("data/" + fn);
   data.forEach(i => {
-    list.push({
-      month: parseInt(i.年 + (i.月 < 10 ? "0": "") + i.月),
-      lgcode: parseInt(i.地域コード),
-      n: parseInt(i.人数),
-    });
+    const month = parseInt(i.年 + (i.月 < 10 ? "0": "") + i.月);
+    const lgcode = parseInt(i.地域コード);
+    if (list.find(i => i.month == month && i.lgcode == lgcode)) return;
+    list.push({ month, lgcode, n: parseInt(i.人数) });
   });
 }
 const f = i => i.month * 100000 + i.lgcode;
