@@ -2,4 +2,4 @@
 
 ## 出典
 
-- [デジタル観光統計オープンデータ（お試し版） | 公益社団法人 日本観光振興協会](https://www.nihon-kankou.or.jp/home/jigyou/research/d-toukei/)
+- [デジタル観光統計オープンデータ | 公益社団法人 日本観光振興協会](https://www.nihon-kankou.or.jp/home/jigyou/research/d-toukei/)
