@@ -1,5 +1,7 @@
 # Japan Tourism Statistics
 
+> 日本語のREADMEはこちらです: [README.ja.md](README.ja.md)
+
 This project provides a dashboard for tourism visitation statistics in Japan, aggregated by prefecture and city.
 
 ## Data Source
