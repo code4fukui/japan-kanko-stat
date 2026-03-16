@@ -26,4 +26,4 @@ deno run -A make.js
 This will download the latest data files and generate the `data/all.csv` file.
 
 ## License
-This project is licensed under the MIT License.
+MIT License — see [LICENSE](LICENSE).
