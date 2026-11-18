@@ -30,7 +30,7 @@ The main output file is `data/all.csv`, which contains the following columns:
 This repository uses a GitHub Actions workflow defined in `.github/workflows/update.yml`. The workflow runs on a daily schedule to:
 1.  Scrape the data source page for new CSV files.
 2.  Download any new files.
-3.  Rebuild the consolidated `data/all.csv` file.
+3.  Append unpublished months to `data/all.csv` when both prefecture and city data are available. Preserve previously published months.
 4.  Commit and push the updated data back to the repository.
 
 ## Local Usage
@@ -54,8 +54,8 @@ You can run the data update process locally.
     # Download the latest source CSV files into the /data directory
     deno run -A download.js
 
-    # Consolidate the downloaded files into data/all.csv
-    deno run -A make.js
+    # Append unpublished months as in the scheduled workflow
+    deno run -A appendMonths.js
     ```
 
 ## License
