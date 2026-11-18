@@ -17,7 +17,7 @@ jobs:
       - name: make
         run: |
           deno run -A download.js
-          deno run -A make.js
+          deno run -A appendMonths.js
       - name: commit and push
         run: |
           git config --global user.email "workflow@example.com"
